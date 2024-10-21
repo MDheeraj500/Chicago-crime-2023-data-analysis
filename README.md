@@ -6,7 +6,7 @@ This project provides an analysis of crime dynamics in Chicago for the year 2023
 - [Dataset](#dataset)
 - [Data Cleaning Process](#data-cleaning-process)
 - [Visualizations](./Visualizations)
-- [Sample Visualizations](#SampleVisualizations)
+- [Sample Visualizations](#Sample_Visualizations)
 - [Insights](#insights)
 - [Technologies Used](#technologies-used)
 - [Hypotheses and Results](./Chicago-crime-2023-data-analysis.pdf)
