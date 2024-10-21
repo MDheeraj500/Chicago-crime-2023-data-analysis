@@ -5,7 +5,8 @@ This project provides an analysis of crime dynamics in Chicago for the year 2023
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Data Cleaning Process](#data-cleaning-process)
-- [Visualizations](#visualizations)
+- [Visualizations](./Visualizations)
+- [Sample Visualizations](#SampleVisualizations)
 - [Insights](#insights)
 - [Technologies Used](#technologies-used)
 - [Hypotheses and Results](./Chicago-crime-2023-data-analysis.pdf)
@@ -42,20 +43,20 @@ The analysis was done using Tableau, with key visualizations highlighting:
 - Crime distribution by location type (e.g., Street, Apartment).
 - Arrest patterns for different crime types.
 
-### Sample Visualizations:
+### Sample_Visualizations:
 - Crime distribution by time of day
-- ![Crime distribution by time of day](./Visualizations/Crime_count_over_hours_of_day.jpg)
-- Theft prevalence on high-crime streets (Heat Map).
-- Arrest count comparison between `S Michigan Ave` and `N State St` (Bar Chart).
-
-![Example Visualization](./visualizations/crime_by_street.png)
+  ![Crime distribution by time of day](./Visualizations/Crime_count_over_hours_of_day.jpg)
+- Top 20 Least safe streets by crime count.
+  ![Top 20 Least safe streets by crime count](./Visualizations/Least_safe_streets_20.jpg)
+- Arrest count comparison between `S Michigan Ave` and `N State St`.
+- ![Arrest count comparison between `S Michigan Ave` and `N State St`](./Visualizations/Arrest_count_comparison_nstate_smichiganave.jpg)
 
 
 ## Insights
 - **Theft** is the most common crime in Chicago for 2023.
 - **S Michigan Ave** is the least safe street, with a significant concentration of theft incidents.
-- Arrest rates vary significantly, with `Narcotics` crimes leading to more arrests than other types.
-- Crime rates peak during late night hours, particularly around midnight.
+- Arrest rates vary significantly, with **`Narcotics`** crimes leading to more arrests than other types.
+- Crime rates peak during late night hours, particularly around **midnight**.
 
 ## Technologies Used
 - **Python**: Data cleaning and preprocessing.
