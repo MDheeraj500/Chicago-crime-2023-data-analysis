@@ -18,7 +18,7 @@ Crime dynamics are influenced by various factors including geography, time, and 
 - Arrest rates for specific crimes and locations.
 
 ## Dataset
-The dataset was sourced from the [Chicago Data Portal](https://data.cityofchicago.org/Public-Safety/Crimes-2023/xguy-4ndq/about_data), containing information on crimes reported in 2023. The cleaned dataset is [Cleaned Dataset](./Datasets)
+The dataset was sourced from the [Chicago Data Portal](https://data.cityofchicago.org/Public-Safety/Crimes-2023/xguy-4ndq/about_data), containing information on crimes reported in 2023. The cleaned dataset is [Cleaned Dataset](./Datasets/Chicago_crime_2023.csv)
 
 ### Key Attributes:
 - **Crime Type**: The primary type of crime (e.g., Theft, Battery).
