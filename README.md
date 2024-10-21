@@ -6,10 +6,9 @@ This project provides an analysis of crime dynamics in Chicago for the year 2023
 - [Dataset](#dataset)
 - [Data Cleaning Process](#data-cleaning-process)
 - [Visualizations](#visualizations)
-- [Hypotheses and Results](#hypotheses-and-results)
 - [Insights](#insights)
 - [Technologies Used](#technologies-used)
-- [References](#references)
+- [Hypotheses and Results](./hypotheses-and-results)
 
 ## Introduction
 Crime dynamics are influenced by various factors including geography, time, and law enforcement strategies. This project investigates these dynamics for Chicago in 2023, focusing on:
@@ -50,14 +49,6 @@ The analysis was done using Tableau, with key visualizations highlighting:
 
 ![Example Visualization](./visualizations/crime_by_street.png)
 
-## Hypotheses and Results
-### Hypothesis 1: Temporal Crime Patterns
-**Null Hypothesis**: There is no significant variation in crime rates by time.
-**Result**: Rejected. Crime rates are lower in the early morning hours and peak around midnight.
-
-### Hypothesis 2: Location of Crime
-**Null Hypothesis**: All streets have similar crime rates.
-**Result**: Rejected. `S Michigan Ave` has the highest crime rate, with a 76.83% higher count than other top streets.
 
 ## Insights
 - **Theft** is the most common crime in Chicago for 2023.
@@ -70,6 +61,3 @@ The analysis was done using Tableau, with key visualizations highlighting:
 - **Tableau**: Visualizations and data exploration.
 - **GitHub**: Project documentation and version control.
 
-## References
-- [Chicago Data Portal](https://data.cityofchicago.org/Public-Safety/Crimes-2023/xguy-4ndq/about_data)
-- [Tableau Public](https://public.tableau.com/en-us/s/)
