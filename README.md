@@ -43,7 +43,7 @@ The analysis was done using Tableau, with key visualizations highlighting:
 - Arrest patterns for different crime types.
 
 ### Sample Visualizations:
-- Crime distribution by time of day (Line Chart).
+- ![Crime distribution by time of day](./visualizations/crime_count_over_hours_of_day.JPG)
 - Theft prevalence on high-crime streets (Heat Map).
 - Arrest count comparison between `S Michigan Ave` and `N State St` (Bar Chart).
 
