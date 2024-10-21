@@ -8,7 +8,7 @@ This project provides an analysis of crime dynamics in Chicago for the year 2023
 - [Visualizations](#visualizations)
 - [Insights](#insights)
 - [Technologies Used](#technologies-used)
-- [Hypotheses and Results](./Chicago crime 2023 data analysis.pdf)
+- [Hypotheses and Results](./Chicago crime 2023 data analysis)
 
 ## Introduction
 Crime dynamics are influenced by various factors including geography, time, and law enforcement strategies. This project investigates these dynamics for Chicago in 2023, focusing on:
